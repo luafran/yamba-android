@@ -1,6 +1,6 @@
 # Yamba Client for Android
 
-Yamba client for Android developed during Android Bootcamp celebrated at Intel on March 2014
+Yamba client for Android developed during New Circle (ex Marakana) Android Bootcamp celebrated at Intel on March 2014
 
 Uses modified Yamba client to support Spanish language downloaded from
 
